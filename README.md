@@ -1,0 +1,1 @@
+This project contains the final Jupyter notebooks, Dash app code, datasets and PowerPoint presentation for my IBM Data Science Professional Certificate program through Coursera.  The subject was predicting if the SpaceX Falcon 9 rocket first stage will land successfully.
